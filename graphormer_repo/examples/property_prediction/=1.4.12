@@ -1,0 +1,2 @@
+Requirement already satisfied: sacrebleu in /home/user/conda/lib/python3.7/site-packages (1.5.1)
+Requirement already satisfied: portalocker==2.0.0 in /home/user/conda/lib/python3.7/site-packages (from sacrebleu) (2.0.0)

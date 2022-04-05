@@ -1,0 +1,14 @@
+# Ignored files\
+*.doc
+*.docx
+*.log
+*.msg
+*.pages
+*.rtf
+*.txt
+*.wpd
+*.wps
+*.pt
+*.pkl
+backend
+datasets
